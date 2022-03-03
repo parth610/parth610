@@ -1,5 +1,4 @@
-# I have learned javascript, postgres database.
-# Currently learning React Redux and Python.
+* Currently learning React Redux and Python.
 
 * Contact me on
 https://www.linkedin.com/in/parth-bhakta-a7883998/
