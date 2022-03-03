@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @parth610
-- 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ...HTML/CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# I have learned javascript, postgres database.
+# Currently learning React Redux and Python.
 
+* Contact me on
+https://www.linkedin.com/in/parth-bhakta-a7883998/
 <!---
 parth610/parth610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
